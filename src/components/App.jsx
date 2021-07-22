@@ -1,6 +1,6 @@
 import React from 'react'
-import Project from "./components/Project";
-import {projects} from "./data";
+import Project from "./Project";
+import {projects} from "../data";
 import './App.scss'
 
 export default class App extends React.Component {
